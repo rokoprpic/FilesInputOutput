@@ -16,7 +16,7 @@
                 }
                 Console.WriteLine(max);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Console.WriteLine("error");
             }
